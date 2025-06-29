@@ -37,10 +37,8 @@ app/
 │   │       ├── Color.kt
 │   │       ├── Theme.kt
 │   │       └── Typography.kt
-│   ├── data/
-│   │   └── websocket/
-│   ├── domain/
-│   │   └── model/
+│   ├── model/
+│   │   └── WebSocketViewModel.kt
 │   └── MainActivity.kt
 ```
 
@@ -134,9 +132,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@AhmedOnibiyo](https://https://x.com/ahmedonibiyo) - ahmedabiodun4@gmail.com
+Ahmed Onibiyo - [@AhmedOnibiyo](https://https://x.com/ahmedonibiyo) - ahmedabiodun4@gmail.com
 
-Project Link: [https://https://github.com/Ahmed021/web-socket-app](https://https://github.com/Ahmed021/web-socket-app)
+Project Link: [https://github.com/Ahmed021/web-socket-app](https://https://github.com/Ahmed021/web-socket-app)
 
 ---
 
