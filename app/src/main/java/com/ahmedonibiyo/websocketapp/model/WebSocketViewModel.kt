@@ -1,4 +1,4 @@
-package com.ahmedonibiyo.websocketapp.ui.component
+package com.ahmedonibiyo.websocketapp.model
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
